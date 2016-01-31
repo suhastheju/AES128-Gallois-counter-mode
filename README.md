@@ -1,4 +1,5 @@
-# AES128-Gallois-counter-mode
+This is the repository for the course project of the T-79.4502 - Cryptography and Data Security.
+## AES128-Gallois-counter-mode
 
 AES Gallois counter mode Implementation
 This code includes two parts
@@ -10,4 +11,3 @@ This code includes two parts
   The length of the plaintext is always a multiple of the block size (16 bytes). 
   The length of the associated data is also always a multiple of the block size (16 bytes).
   The lenght of the tag is one block (16 bytes). 
-
