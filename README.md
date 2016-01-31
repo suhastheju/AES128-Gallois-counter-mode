@@ -1,4 +1,4 @@
-This is the repository for the course project of the T-79.4502 - Cryptography and Data Security.
+This is the repository for the course project of T-79.4502 - Cryptography and Data Security.
 ## AES128-Gallois-counter-mode
 
 AES Gallois counter mode Implementation
